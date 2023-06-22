@@ -1,0 +1,23 @@
+{
+  "name": "js_backend_2023",
+  "version": "1.0.0",
+  "description": "back-end part",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tricosh/js_backend_2023.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tricosh/js_backend_2023/issues"
+  },
+  "homepage": "https://github.com/Tricosh/js_backend_2023#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.2.0"
+  }
+}
